@@ -1,5 +1,5 @@
 # Password Manager
 
-This application is written in C++ and a little bit of Python. This app allows us to store our passwords in a very secure way. Our data is encrypted by AES-128 algorithm. We can store login, password and other notes. Windows Forms are used for the interface. Encryption algorithm is written in Python.
+The application is written in C++, with encryption module in Python. It allows us to store credentials and other sensitive data in a very secure way. The database is encrypted by AES-128 algorithm. Windows Forms are used for the interface. The app creates a database file, so it is possible to import it from any other devices later.
 
-> .exe installer is available for Windows. Tested on Windows 10
+- .exe installer is available for Windows. Tested on Windows 10
